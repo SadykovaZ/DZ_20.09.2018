@@ -1,0 +1,11 @@
+10
+Asan 101 12 13 14
+Dinara 102 15 16 17
+Madina 305 18 19 20
+Aliya 306 21 22 23
+Roman 307 44 55 66
+Zhanar 208 33 58 98
+Leila 209 55 67 89
+Pasha 210 98 25 45
+Katya 806 32 69 12
+Natasha 509 14 58 87
